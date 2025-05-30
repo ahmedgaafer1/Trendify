@@ -171,17 +171,24 @@ Trendify/
 
 ## 📱 Screenshots
 
-### 🏠 **Homepage**
-*Modern landing page with featured products and promotions*
+### 🏠 **Homepage & Navigation**
+<div align="center">
+  <img src="screenshots/homepage.gif" alt="Homepage Demo" width="800">
+</div>
 
-### 🛒 **Product Catalog**
-*Comprehensive product listing with search and filter capabilities*
+### 🛒 **Shopping Experience**
+<div align="center">
+  <img src="screenshots/product.gif" alt="Shopping Flow" width="800">
+</div>
 
-### 👤 **User Dashboard**
-*Role-based dashboards for customers, sellers, and admins*
-
-### 📊 **Analytics Panel**
-*Detailed sales and performance analytics*
+### 👑 **User panel**
+<div align="center">
+  <img src="screenshots/userpanel.gif" alt="Admin Dashboard" width="800">
+</div>
+###  **Analyticspanel**
+<div align="center">
+  <img src="screenshots/Analyticspanel.gif" alt="Admin Dashboard" width="800">
+</div>
 
 ## 🔐 Authentication & Authorization
 
